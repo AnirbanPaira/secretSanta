@@ -53,7 +53,7 @@ The project is structured as follows:
 ## Version Control
 
 -   **Git:**  The project is under Git version control.
-    -   **Repository URL:** [Insert repository URL here] (You should replace `[repository URL]` in the Installation section with the actual repository URL when you create the Git repository.)
+    -   **Repository URL:** https://github.com/AnirbanPaira/secretSanta
 
 ## Versions
 
